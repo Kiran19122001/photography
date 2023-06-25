@@ -1,0 +1,26 @@
+.thumnails-container {
+    display: flex;
+    padding-left: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+}
+
+.displayImage {
+    height: 500px;
+    width: 800px;
+}
+
+.container-tow {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+}
